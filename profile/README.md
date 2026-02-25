@@ -28,7 +28,7 @@ We offer expert-led workshops, incident response training, and consulting to hel
 * **Incident Response & Post-Mortem Facilitation**
 * **Agent Assisted Workflows**
 * **Root Cause Analysis**
-* **KPI Strategies - SLA /SLI / SLO / MTTR / MTTD / DORA**
+* **KPI Strategies - SLA / SLI / SLO / MTTR / MTTD / DORA**
 * **Observability FinOps**
 * **Proactive & Reactive Alerting**
 * **Telemetry Driven Development**
