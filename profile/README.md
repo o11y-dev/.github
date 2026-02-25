@@ -1,3 +1,5 @@
+![o11y.dev observability engineering banner](./o11y-dev-observability-engineering-banner.jpeg)
+
 # Welcome to o11y.dev 🔭
 
 **Observability for the Observer**
