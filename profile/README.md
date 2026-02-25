@@ -36,7 +36,7 @@ We offer expert-led workshops, incident response training, and consulting to hel
 
 ## 🤝 Contribute
 
-fWe are actively exploring the frontiers of AI and Observability and welcome contributions! Feel free to explore our repositories, test out our hooks, open issues, or submit pull requests. 
+We are actively exploring the frontiers of AI and Observability and welcome contributions! Feel free to explore our repositories, test out our hooks, open issues, or submit pull requests. 
 
 ---
 *Visit our [repositories](https://github.com/orgs/o11y-dev/repositories) to see what we're working on today.*
