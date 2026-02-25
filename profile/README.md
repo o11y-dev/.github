@@ -1,3 +1,5 @@
+![o11y.dev banner](./IMG_4239.jpeg)
+
 # Welcome to o11y.dev 🔭
 
 **Observability for the Observer**
