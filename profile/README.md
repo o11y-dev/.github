@@ -1,37 +1,17 @@
 ![o11y.dev observability engineering banner](./o11y-dev-observability-engineering-banner.jpeg)
 
-# Welcome to o11y.dev 🔭
+#o11y.dev 🔭
 
 **Observability for the Observer**
 
-We are an engineering organization dedicated to the intersection of **Artificial Intelligence** and **Observability Engineering**. Our mission is to build tools, integrations, and cognitive architectures that enhance observability workflows, with a strong focus on leveraging [OpenTelemetry](https://opentelemetry.io/) in modern, AI-assisted development environments.
+We are an engineering organization dedicated to the intersection of **Artificial Intelligence** and **Observability Engineering**. 
+Our mission is to build tools, integrations, and cognitive architectures that enhance observability workflows, with a strong focus on leveraging [OpenTelemetry](https://opentelemetry.io/) in modern, AI-assisted development environments.
 
 ## 🚀 Featured Projects
 
 * 🧠 **[opentelemetry-skill](https://github.com/o11y-dev/opentelemetry-skill)** *A Cognitive Architecture for AI-Assisted Observability Engineering.* Exploring how AI agents can autonomously interact with, analyze, and instrument observability systems.
 
 * 🪝 **[opentelemetry-hooks](https://github.com/o11y-dev/opentelemetry-hooks)** *OpenTelemetry integration for AI IDEs.* A Python-based integration for tools like Cursor and GitHub Copilot that records AI agent activity and exports detailed telemetry data using the standard OTLP protocol.
-
-## 🛠️ Core Technologies & Focus Areas
-
-* **Observability (o11y)**
-* **OpenTelemetry (OTel) & OTLP**
-* **AI-Assisted Development (Cursor, Copilot)**
-* **Agentic Workflows**
-
-## 📬 Training & Consulting
-
-We offer expert-led workshops, incident response training, and consulting to help teams build resilient systems and cultures. Contact us at **[contact@o11y.dev](mailto:contact@o11y.dev)** to level up your organization in:
-
-* **Observability Engineering & OpenTelemetry**
-* **Service Ownership & Reliability**
-* **Incident Response & Post-Mortem Facilitation**
-* **Agent Assisted Workflows**
-* **Root Cause Analysis**
-* **KPI Strategies - SLA / SLI / SLO / MTTR / MTTD / DORA**
-* **Observability FinOps**
-* **Proactive & Reactive Alerting**
-* **Telemetry Driven Development**
 
 
 ## 🤝 Contribute
