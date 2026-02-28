@@ -1,6 +1,6 @@
 ![o11y.dev observability engineering banner](./o11y-dev-observability-engineering-banner.jpeg)
 
-#o11y.dev 🔭
+# o11y.dev 🔭
 
 **Observability for the Observer**
 
