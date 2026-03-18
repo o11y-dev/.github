@@ -1,4 +1,4 @@
-![o11y.dev observability engineering banner](./o11y-dev-observability-engineering-banner.jpeg)
+![o11y.dev observability engineering banner](https://raw.githubusercontent.com/o11y-dev/.github/main/profile/o11y-dev-observability-engineering-banner.jpeg)
 
 # o11y.dev 🔭
 
