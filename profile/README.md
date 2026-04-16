@@ -35,10 +35,7 @@ reflect --demo
 ## 🚀 Featured Projects
 
 * 🔭 **[reflect](https://github.com/o11y-dev/reflect)**  
-  *The main entry point.* Install telemetry, compare agents, inspect token/tool behavior, and render terminal, markdown, or hosted dashboard views.
-
-* 🚪 **[gateway](https://github.com/o11y-dev/gateway)**  
-  *The OTLP intake layer.* Receive traces and logs from hooks or native OpenTelemetry and forward them to Coralogix.
+  *The main entry point.* Install telemetry, run `reflect gateway`, compare agents, inspect token/tool behavior, and render terminal, markdown, or hosted dashboard views.
 
 * 🪝 **[opentelemetry-hooks](https://github.com/o11y-dev/opentelemetry-hooks)**  
   *The capture layer when you need control.* Add hook-based spans, logs, and process-boundary observability for AI tools.
@@ -64,7 +61,7 @@ reflect --demo
 ## 🧭 Deployment shape
 
 - **Developer workstation**: `reflect` + local gateway + local state
-- **Team/shared path**: OTLP into `gateway` for forwarding into Coralogix
+- **Team/shared path**: OTLP into `reflect gateway` for forwarding into Coralogix
 - **Instrumentation choice**: native OpenTelemetry first, hooks when deeper control is needed
 
 ## 🧭 Product shape

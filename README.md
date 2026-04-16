@@ -7,7 +7,7 @@ Core product direction:
 - **`reflect`** is the main entry point for setup, analysis, and reporting
 - **`reflect gateway`** is the default local OTLP intake layer on ports `4317/4318`
 - **`~/.reflect/state/`** is the default local storage location for traces, logs, and sessions
-- **`gateway`** is the standalone collector path for team/shared forwarding into Coralogix
+- **`reflect gateway`** is also the current path for team/shared forwarding into Coralogix
 - **`opentelemetry-hooks`** is the capture/control layer when hook-based instrumentation is needed
 - **`opentelemetry-skill`** is the setup and observability guide
 
