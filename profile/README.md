@@ -27,7 +27,7 @@ reflect --demo
 
 ## ✨ Recent developments
 
-- **Local OTLP gateway** with `reflect gateway start|stop|status`
+- **Local OTLP gateway** with `reflect gateway {start|stop|status}`
 - **Health and drift checks** with `reflect doctor` and `reflect update`
 - **Reusable skill extraction** from session history with `reflect skills`
 - **Hosted and local dashboards** from the same local-first telemetry pipeline
