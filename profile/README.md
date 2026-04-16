@@ -16,7 +16,7 @@ reflect setup
 reflect --demo
 ```
 
-`reflect setup` wires supported agents, starts a local OTLP gateway on `127.0.0.1:4317` / `:4318`, and writes telemetry to `~/.reflect/state/`.
+`reflect setup` wires supported agents, starts a local OTLP gateway on `127.0.0.1:4317` and `127.0.0.1:4318`, and writes telemetry to `~/.reflect/state/`.
 
 ## 🏢 Built for teams, usable today
 
